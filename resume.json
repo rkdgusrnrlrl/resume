@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "강현구",
+    "label": "서버개발자",
+    "picture": "",
+    "email": "rkdgusrnrlrl@gmail.com",
+    "phone": "010-3454-9920",
+    "website": "",
+    "summary": "3년차 개발자 입니다. 무언가 배우는 것을 좋아하고 빠르게 학습 하는 타입이라, 많은 것을 시도 해보려고 항상 노력 하고 있습니다.\n서비스를 컨테이너 형태로 관리의 필요성을 느껴 서버 호스팅은 받아 Docker 도 올려 보고, 최근에는 Docker remote api 를 활용하여 Docker 컨테이너를 제어하는 방법을 배우고 있습니다.\n또 테스트 에 관심이 많지만, 테스트 코드 작성하는 법이 익숙치 않아 어디까지 테스트를 할것 인지, 어떻게 되야 테스트 성공이라고 볼 것인지, 어느 부분까지 테스트 하는 것이 좋은지 등에 대해 고민하고 있습니다.\n개발 문화를 참 좋아하고, 개발자들와 이런저런 이야기를 나누는 것을 좋아합니다. 최근 들어 Github을 통해 같이 코딩하고, 공유하는데 흥미를 느껴 오픈소스에 RP 하고, 개인적으로 만들고 싶은 서비스도 틈틈히 만들어 보고 있습니다.\n또한 개발 커뮤니티에 참여 하는 것을 좋아하여서, PyCon Korea 및 Spring camp에 참여 하였고, 그것을 계기로 장고걸스 대전을 만들고, 여러 행사를 진행해 보기도 했습니다. 여러 사람과 함께 하는 문화를 같이 만들어 봤으면 좋겠습니다.",
+    "location": {
+      "address": "서울시 구로구 구로동 1129-18 성우 302호",
+      "postalCode": "08393",
+      "city": "서울",
+      "countryCode": "KR",
+      "region": "서울"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "rkdgusrnrlrl",
+        "url": "https://github.com/rkdgusrnrlrl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "파트너",
+      "position": "서버개발자",
+      "website": "https://www.grap.io/intro/",
+      "startDate": "2017-05",
+      "endDate": "2018-05",
+      "summary": "클라우드 협업 툴 서비스 입니다. 피드와 채팅으로 구성되 있고 모바일과 웹에서 사용 할 수 있게 개발 되었습니다.푸시 서버를 MQTT 프로토콜을 사용하여 자체 개발해 운영했습니다.\n담당으로 API 개발 및 유지 보수와 인프라 개발 및 유지 보수, Push 서버 유지 보수를 주로 담당 했습니다.",
+      "highlights": [
+        "사용 기술 : Node.js, Redis, MongoDB, Azure, Nginx, Linux",
+        "API 서버 개발 유지 보수 및 Push 서버 유지 보수",
+        "백오피스 API 추가 개발",
+        "API 및 MongoDB Redis 지역간 이중화",
+        "백엔드 인턴쉽 교육(봇 플렛폼을 사용해 Firebase Store 연동)",
+        "일별 사용 통계 작업 자동화"
+      ]
+    },
+    {
+      "company": "아이엔지웹",
+      "position": "웹개발자",
+      "website": "",
+      "startDate": "2015-08",
+      "endDate": "2017-02",
+      "summary": "웹 에이전시로 정부 기관 프로젝트를 수주 받아 개발 했습니다. 한 프로젝트를 받아 웹페이지 개발(디자인 퍼플리싱을 제외한) 을 맡았습니다.",
+      "highlights": [
+        "NkScholar - 북한논문을 파는 사이르로 JAVA, Spring, Gradle 등을 사용 해 개발 했습니다. NKTech  사이트와 JSON API 를 통해 논문 정보를 연동 했습니다",
+        "NKTech - 북한논문 정보를 볼 수 있는 사이트로 JAVA, JSP, MyBatis 등을 사용 해 기존 사이트를 리뉴얼 했습니다. 논문 열람 승인 시스템을 새로 개발하였습니다."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "PyCon Korea",
+      "position": "자원봉사",
+      "website": "https://www.pycon.kr/2016apac/",
+      "startDate": "2016-08-13",
+      "endDate": "2016-08-14",
+      "summary": "파이콘은 세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스입니다. 발표 준비를 돕고, 행사물품을 나눠 주는 등 봉사활동을 했습니다.",
+      "highlights": []
+    },
+    {
+      "organization": "SPRING CAMP",
+      "position": "자원봉사",
+      "website": "http://www.springcamp.io/2017/",
+      "startDate": "2017-04-22",
+      "endDate": "2017-04-23",
+      "summary": "스프링캠프에서는 JVM(Java Virtual Machine) 기반 시스템의 백엔드(Back-end) 또는 서버사이드(Server-side)라고 칭하는 영역을 개발하는 애플리케이션 서버 개발에 관한 기술과 정보, 경험을 공유하는 컨퍼런스입니다. 행사장 세팅 및 가이드, 등록 도움을 주는 봉사활동을 했습니다.",
+      "highlights": []
+    },
+    {
+      "organization": "Django Girls Daejeon",
+      "position": "운영진",
+      "website": "https://www.facebook.com/djangogirlsdaejeon/",
+      "startDate": "2016-11",
+      "endDate": "2018-01",
+      "summary": "Django Girls 는 프로그래밍을 배우지 않은 여성들에게 프로그래밍을 배울 수 있게 돕는 비영리 단체로, Django Girls Daejeon 대전을 기반으로 활동하는 그룹입니다. 행사 운영 및 후원자 모집 업무 분담 등 운영 전반을 했습니다.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "한남대학교",
+      "area": "경영학과",
+      "studyType": "",
+      "startDate": "2006-03",
+      "endDate": "2012-03",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Langauge",
+      "level": "Master",
+      "keywords": [
+        "JAVA - 중",
+        "Javascript - 중",
+        "Python - 하"
+      ]
+    },
+    {
+      "name": "Tool",
+      "level": "Master",
+      "keywords": [
+        "Jetbrain IDE(itelliJ, Webstorm, Pycharm)",
+        "Docker",
+        "Git",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
