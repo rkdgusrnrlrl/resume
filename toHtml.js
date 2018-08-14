@@ -15,11 +15,10 @@ function toHtml() {
     try {
         var resume = args._.length? JSON.parse(fs.readFileSync(args._[0], 'utf8')) : require("resume-schema").resumeJson;
         const html =  theme.render(resume);
-        fs.writeFile(`${__dirname}/index.html`, html, function (err,data) {
+        fs.writeFile(`${__dirname}/index.html`, html, (err) => {
             if (err) {
                 return console.log(err);
             }
-            console.log(data);
         });
     } catch (e) {
         console.log(e.message);
